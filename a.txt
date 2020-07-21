@@ -1,6 +1,6 @@
 dev
 CReating a new branch is quick and simple.
-fea3
-yyy
+fEa3
+yYY
 uUU
 OOO
